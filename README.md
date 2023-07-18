@@ -4,7 +4,7 @@
 Certainly! Here's an example of a step-by-step process for data analysis and building a machine learning model for sales prediction:
 
 Step 1: Data Exploration and Preparation
-- Load the sales dataset into a DataFrame.
+- Load the TITANIC SURVIVAL PREDICTION dataset into a DataFrame.
 - Explore the dataset to understand its structure, feature columns, and target variable.
 - Handle missing values, if any, through imputation or removal.
 - Perform any necessary data transformations, such as scaling or encoding categorical variables.
